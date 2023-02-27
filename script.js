@@ -2,7 +2,7 @@
 
 // Variable: Navigation list
 
-// When the button is clicked, we display the navigation menu
+// Goal: When the button is clicked, we display the navigation menu
 
 // We want the button to listen for a click event
 
